@@ -1,0 +1,3 @@
+regular expsn:
+to find characters among the given sentence
+using /^[0-9]* $/ it can be starts
